@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace top",
+    "description": "Moves the active workspace to the front of its own section (pinned or project) when a message is sent."
+  }
+}
