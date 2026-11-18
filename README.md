@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-dsh plugin --profile web add https://github.com/<你的仓库>/dsh-workspace-active-top
+dsh plugin --profile web add https://github.com/handy-git/dsh-workspace-active-top
 ```
 
 装完即生效，无需配置。

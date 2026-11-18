@@ -2,7 +2,7 @@
   "name": "dsh-workspace-active-top",
   "version": "0.1.0",
   "private": true,
-  "description": "Moves the active workspace to the top of its own sidebar section (pinned / project) when a message is sent.",
+  "description": "发消息时，把当前工作区移到它所在分区（置顶 / 项目）的最前面。Moves the active workspace to the top of its own sidebar section when a message is sent.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -16,15 +16,26 @@
     "locale/*.json",
     "icon.svg",
     "README.md",
+    "CHANGELOG.md",
     "LICENSE"
   ],
   "license": "MIT",
+  "author": "handy-git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handy-git/dsh-workspace-active-top.git"
+  },
+  "homepage": "https://github.com/handy-git/dsh-workspace-active-top#readme",
+  "bugs": {
+    "url": "https://github.com/handy-git/dsh-workspace-active-top/issues"
+  },
   "keywords": [
     "deepseek",
     "harness",
     "dsh",
     "dsh-plugin",
     "workspace",
+    "sidebar",
     "sort",
     "pin"
   ],
